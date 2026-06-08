@@ -8,8 +8,8 @@ const fontsData = [
         name: "20552.otf",
         fontFamily: "CustomFont20552",
         defaultText: "Aa"
-    }
-{
+    },
+    {
         name: "AMERIKAA.ttf", // Имя файла
         fontFamily: "CustomFontAMERIKAA", // То же имя, что в CSS
         defaultText: "Aa"
